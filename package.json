@@ -2,18 +2,18 @@
     "name": "smart-mce-game",
     "version": "0.1.0",
     "scripts": {
-      "dev": "next dev -p 3000",
-      "build": "next build",
-      "start": "next start"
+        "dev": "next dev -p 3000",
+        "build": "next build",
+        "start": "next start"
     },
     "dependencies": {
-      "next": "latest",
-      "react": "latest",
-      "react-dom": "latest",
-      "tailwindcss": "latest",
-      "framer-motion": "latest",
-      "@headlessui/react": "latest",
-      "uuid": "latest",
-      "firebase": "latest"
+        "@headlessui/react": "latest",
+        "firebase": "^11.6.0",
+        "framer-motion": "latest",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "tailwindcss": "latest",
+        "uuid": "latest"
     }
-  }
+}
