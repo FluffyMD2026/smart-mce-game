@@ -1,4 +1,4 @@
-# dependencies
+# Node dependencies
 node_modules/
 
 # Next.js build output
@@ -7,3 +7,9 @@ out/
 
 # Local environment variables
 .env.local
+
+# VS Code workspace settings
+.vscode/
+
+# macOS Finder files
+.DS_Store
